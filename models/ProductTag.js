@@ -27,7 +27,7 @@ ProductTag.init(
       },
     },
   },
-  {
+  { 
     sequelize,
     timestamps: false,
     freezeTableName: true,
